@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/henrique-calazans/
 - 😄 Pronouns: He/his/him
 - ⚡ Fun fact: I like Olives, Playstantion's old games, I like learn things on my own, my native language is Portuguese but we also can talk in English and Spanish.
-
--->
