@@ -1,4 +1,6 @@
-###  Hi,there! Welcome to my Github Profile! Please, take a sit, let's drink a cup of ☕ while I talk about what I am studying now:
+###  Hi, there 👋 Welcome to my Github Profile!
+
+ ### Please, take a sit, let's drink a cup of ☕ while I talk about what I'm studying now:
 
 - 🔭 I’m currently working on Interface Tests using Java, Selenium, Junit5, Gradle and Hamcrest
 - 🌱 I’m currently learning Database (PostGree and Mysql), Java Script, Appium and Cypress.
