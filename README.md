@@ -1,4 +1,4 @@
-###  Welcome to my Github Profile! 🐱‍🏍
+###  Welcome to my Github Profile! 🐞🔍
 
  ### Please, take a sit, let's drink a cup of ☕ while I introduce me:
 
